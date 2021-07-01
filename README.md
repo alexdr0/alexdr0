@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Alexander </hi>
 
-<h4 align="center" > I have a website by the way: [alexdr.tech](https://alexdr.tech) </h4>
+<h4 align="center" > I have a website by the way: <a href="https://alexdr.tech">alexdr.tech</a> </h4>
 
 <h3> About Me <h3>
 - 👨‍💻 I'm a **Self-taught** programmer 👨‍💻
