@@ -2,7 +2,7 @@
 
 <h4 align="center" > I have a website by the way: <a href="https://alexdr.tech">alexdr.tech</a> </h4>
 
-<h3> About Me </h3>
+<h3 align="center"> About Me </h3>
 
 - 👨‍💻 I'm a **Self-taught** programmer 👨‍💻
 -  ✨ I live in **Washington DC** and I'm **14** years old ✨
@@ -18,10 +18,10 @@
   - React
     - Web Development Languages 
 
-### Current Projects
+<h3 align="center">Current Projects</h3>
 I am working on [Lunchtable](https://lunchtable.app/), A app-oriented Team Communication app! We are looking for Developers *(We use the MERN stack, looking for Front-end and Back-end devs, Contact me below)*
 
-### Contact Me
+<h3 align="center">Contact Me</h3>
 The best way to contact me is through Discord
 
 #### Discord: alexdr#0007
