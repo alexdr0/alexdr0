@@ -19,7 +19,7 @@
     - Web Development Languages 
 
 <h2 align="center">Current Projects</h2>
-I am working on [Lunchtable](https://lunchtable.app/), A app-oriented Team Communication app! We are looking for Developers *(We use the MERN stack, looking for Front-end and Back-end devs, Contact me below)*
+I am working on <a href="https://lunchtable.app">Lunchtable</a>, A app-oriented Team Communication app! We are looking for Developers *(We use the MERN stack, looking for Front-end and Back-end devs, Contact me below)*
 
 <h2 align="center">Contact Me</h2>
 The best way to contact me is through Discord
