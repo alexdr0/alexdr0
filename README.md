@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Alexander
+# <center> Hi there 👋, I'm Alexander </center>
 
 #### I have a website by the way: [alexdr.tech](https://alexdr.tech)
 
