@@ -2,7 +2,7 @@
 
 <h4 align="center" > I have a website by the way: <a href="https://alexdr.tech">alexdr.tech</a> </h4>
 
-<h3> About Me <h3>
+<h3> About Me </h3>
 
 - 👨‍💻 I'm a **Self-taught** programmer 👨‍💻
 -  ✨ I live in **Washington DC** and I'm **14** years old ✨
