@@ -1,8 +1,8 @@
-# <center> Hi there 👋, I'm Alexander </center>
+<h1 align="center"> Hi there 👋, I'm Alexander </hi>
 
-#### I have a website by the way: [alexdr.tech](https://alexdr.tech)
+<h4 align="center" > I have a website by the way: [alexdr.tech](https://alexdr.tech) </h4>
 
-### About Me
+<h3> About Me <h3>
 - 👨‍💻 I'm a **Self-taught** programmer 👨‍💻
 -  ✨ I live in **Washington DC** and I'm **14** years old ✨
 - 👔 I have 7 years of experience *(I know, I started when I was 7)* 👔
