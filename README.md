@@ -5,8 +5,8 @@
 <h2 align="center"> About Me </h2>
 
 - 👨‍💻 I'm a **Self-taught** programmer 👨‍💻
--  ✨ I live in **Washington DC** and I'm **14** years old ✨
-- 👔 I have 7 years of experience *(I know, I started when I was 7)* 👔
+-  ✨ I live in **Washington DC** ✨
+- 👔 I have 7 years of experience 👔
 - **I Develop in:**
   - Javascript
     - Typescript
